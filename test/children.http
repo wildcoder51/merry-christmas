@@ -1,0 +1,2 @@
+### browse children
+GET http://localhost:8000/children

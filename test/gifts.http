@@ -1,0 +1,2 @@
+### delete gifts
+DELETE http://localhost:8000/gifts/3
